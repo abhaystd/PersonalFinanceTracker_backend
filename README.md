@@ -84,7 +84,8 @@ PORT=5000
 
 ### `.env.local` (frontend)
 ```env
-NEXT_PUBLIC_API_BASE=http://localhost:5000/api
+NEXT_PUBLIC_API_BASE=http://localhost:5000
+NEXT_PUBLIC_ANALYTICS=http://localhost:5001
 ```
 
 ### `python-service` require .env 
