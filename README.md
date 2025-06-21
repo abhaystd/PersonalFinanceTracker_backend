@@ -1,7 +1,5 @@
 # Personal Finance Tracker+
 
-# Personal Finance Tracker+
-
 A full-stack web application that helps users manage expenses, set monthly budgets, view dashboards, and receive smart suggestions to improve financial habits.
 
 ## 🔧 Features
