@@ -108,10 +108,8 @@ JWT_SECRET=your_jwt_secret
 ---
 
 ## 📹 Demo + Submission
-- [Live Demo URL](https://your-live-demo.vercel.app)
-- [Backend URL](https://your-api-endpoint.com)
-- [Flask Suggestion URL](https://your-python-endpoint.com)
-- [GitHub Repository](https://github.com/your-repo-url)
+- [Live Demo URL](https://personalfinancetracker-y5w6.onrender.com/))
+- [GitHub Repository](https://github.com/abhaystd)
 
 ---
 
